@@ -18,8 +18,7 @@ Designed to automate the initial phase of a Penetration Test by combining Port S
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Kanekino-Cyber/Auto-PyRecon.git](https://github.com/Kanekino-Cyber/Auto-PyRecon.git)
-    cd Auto-PyRecon
+    git clone https://github.com/Kanekino-Cyber/Auto-PyRecon.git
     ```
 
 2.  **Install dependencies:**
